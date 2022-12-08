@@ -1,0 +1,7 @@
+version: "3.9"
+services:
+  spread:
+    build: .
+    image: spread-daemon
+    ports:
+      - "4803:4803"

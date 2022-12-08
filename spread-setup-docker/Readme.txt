@@ -1,0 +1,1 @@
+How To Run This: open this folder in a command prompt and execute 'docker-compose up -d'
